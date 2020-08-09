@@ -1,0 +1,52 @@
+.right .dangnhap {
+	width: 500px;
+	margin: 200px auto;
+	border-radius: 15px;
+	box-shadow: 0 2px 10px rgba(0,0,0,0.15);
+	padding-bottom: 15px;
+}
+.right .dangnhap h1 {
+	text-align: left;
+	padding: 12px 20px;
+	color: #212529;
+	background: rgba(0, 0, 0, 0.03);
+	border-bottom: 1px solid #ccc;
+}
+
+
+.right .dangnhap input[type='text'],
+.right .dangnhap input[type='password'] {
+	padding: 12px;
+	color: #212529;
+	outline: none;border-radius: 5px;
+	border: 1px solid #ccc;
+	margin-top: 15px;
+	background: #ffffff;
+	width: 300px;
+}
+
+.right .dangnhap input[type='submit'] {
+	padding: 6px 12px;
+	color: #ffffff;
+	outline: none;
+	border-radius: 5px;
+	border: 1px solid #ccc;
+	margin: 12px 0 10px 0;
+	background: #007bff;
+	width: 100px;
+}
+
+.right .dangnhap a {
+	text-decoration: none;
+	color: #007bf1;
+	font-size: 100%;
+} 
+
+.right .dangnhap a:hover {
+	text-decoration: underline;
+}
+
+.right .dangnhap p {
+	color: #212529;
+	font-size: 80%;
+}

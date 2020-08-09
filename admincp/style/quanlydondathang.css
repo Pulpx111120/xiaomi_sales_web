@@ -1,0 +1,82 @@
+.content .left .quanlydondathang {
+	color: #212529;
+	margin-bottom: 50px;
+}
+
+.content .left .quanlydondathang .title1 {
+	background: #e9ecef;
+	color: #6c757d;
+	padding: 12px 16px;
+	margin: 16px 15px;
+	border-radius: 1rem;
+}
+
+.content .left .quanlydondathang .title2 {
+	color: #007bff;
+}
+
+.content .left .quanlydondathang .title3 {
+	color: #212529;
+	padding: 0 8px;
+}
+
+.content .left .quanlydondathang table tr th {
+	padding: 10px 0;
+	border: 1px solid #ccc;
+}
+
+.content .left .quanlydondathang table tr td {
+	padding: 20px 0;
+	border: 1px solid #ccc;
+}
+
+.content .left .quanlydondathang table a {
+	color: #007bff;
+	text-decoration: none;
+}
+
+.content .left .quanlydondathang table a:hover {
+	text-decoration: underline;
+}
+
+/* ============================================== */
+.content .right .quanlydondathang {
+	color: #212529;
+	margin-bottom: 50px;
+}
+
+.content .right .quanlydondathang .title1 {
+	background: #e9ecef;
+	color: #6c757d;
+	padding: 12px 16px;
+	margin: 16px 15px;
+	border-radius: 1rem;
+}
+
+.content .right .quanlydondathang .title2 {
+	color: #007bff;
+}
+
+.content .right .quanlydondathang .title3 {
+	color: #212529;
+	padding: 0 8px;
+}
+
+.content .right .quanlydondathang table tr th {
+	padding: 10px 0;
+	border: 1px solid #ccc;
+}
+
+.content .right .quanlydondathang table tr td {
+	padding: 20px 0;
+	border: 1px solid #ccc;
+}
+
+.content .right .quanlydondathang table a {
+	color: #007bff;
+	text-decoration: none;
+}
+
+.content .right .quanlydondathang table a:hover {
+	text-decoration: underline;
+}

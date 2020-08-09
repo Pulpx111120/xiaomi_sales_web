@@ -1,0 +1,12 @@
+Đăng nhập trang chủ bán hàng:
+	localhost/quanlybanhang/index.php
+
+Đăng nhập trang admin quản lý:
+	localhost/quanlybanhang/admincp/index.php
+
+Tài khoản đăng nhập trang admin quản lý:
+	admin1 - ad1
+	admin2 - ad2
+	admin3 - ad3
+	admin4 - ad4
+

@@ -1,0 +1,33 @@
+.right .thongbao {
+	margin: 70px 20px;
+}
+
+.right .thongbao h1 {
+	color: #212629;
+	font-size: 2.5rem;
+/*	font-weight: 300;
+	line-height: 1.2;*/
+	padding: 0 0 8px;
+	border-bottom: 1px solid #ccc;
+}
+
+.right .thongbao p {
+	color: #212629;
+	font-size: 1rem;
+	font-weight: 400;
+	line-height: 1.5;
+	padding: 0 0 16px;
+}
+
+.right .thongbao a {
+	text-decoration: none;
+	color: #007bff;
+	font-size: 1rem;
+	font-weight: 400;
+	line-height: 1.5;
+	padding: 0 0 16px;
+}
+
+.right .thongbao a:hover {
+	text-decoration: underline;
+}

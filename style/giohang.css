@@ -1,0 +1,70 @@
+.right .giohang {
+	color: #212529;
+	margin-bottom: 50px;
+}
+
+.right .giohang h2 {
+	color: #212529;
+	padding: 20px 10px;
+}
+
+.right .giohang h1 {
+	color: #ff6700;
+	padding: 15px 10px;
+}
+
+.right .giohang h3 {
+	color: #212529;
+	padding: 15px;
+}
+
+.right .giohang .tmp {
+	padding: 10px;
+	background: #fff;
+	box-shadow: 0 2px 10px #ff6700;
+	border-radius: 10px;
+}
+
+.right .giohang .tmp a {
+	color: #ff6700;
+}
+
+.right .giohang a {
+	color: #007bff;
+	text-decoration: none;
+}
+
+.right .giohang a:hover {
+	text-decoration: underline;
+}
+
+.right .giohang table {
+	border-collapse: collapse;
+}
+
+.right .giohang table tr th,
+.right .giohang table tr td {
+	border: 1px solid #ccc;
+	padding: 10px;
+}
+
+.right .giohang .stt p {
+	color: #333;
+	font-size: 12px;
+	margin-top: 7px;
+}
+
+.right .giohang .stt a {
+	background: #eff0f5;
+	color: #212529;
+	padding: 5px;
+	margin: 0 5px;
+}
+
+.right .giohang .stt a:hover {
+	text-decoration: none;
+}
+
+.right .giohang .stt a.isF {
+	background: #fafafa;
+}

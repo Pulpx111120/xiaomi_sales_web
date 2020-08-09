@@ -1,0 +1,63 @@
+* {
+	padding: 0;
+	margin: 0;
+}
+
+body {
+	background: #343a40;
+	font-family: sans-serif;
+}
+
+table {
+	border-collapse: collapse;
+}
+
+.login {
+	background: #ffffff;
+	width: 500px;
+	margin: 50px auto;
+	border-radius: 5px;
+	box-shadow: 0 2px 10px #ccc;
+	padding-bottom: 15px;
+}
+
+.login h1 {
+	text-align: left;
+	padding: 12px 20px;
+	color: #212529;
+	background: rgba(0, 0, 0, 0.03);
+	border-bottom: 1px solid #ccc;
+}
+
+.login input[type='text'],
+.login input[type='password'] {
+	padding: 12px;
+	color: #212529;
+	outline: none;
+	border-radius: 5px;
+	border: 1px solid #ccc;
+	margin-top: 15px;
+	background: #ffffff;
+	width: 300px;
+}
+
+.login input[type='submit'] {
+	padding: 6px 12px;
+	color: #ffffff;
+	outline: none;
+	border-radius: 5px;
+	border: 1px solid #ccc;
+	margin: 12px 0 10px 0;
+	background: #007bff;
+	width: 100px;
+}
+
+/*.dangnhap a {
+	text-decoration: none;
+	color: #007bf1;
+	font-size: 80%;
+} 
+
+.dangnhap a:hover {
+	text-decoration: underline;
+}*/

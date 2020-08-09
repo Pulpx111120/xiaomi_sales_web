@@ -1,0 +1,116 @@
+.content .left .quanlychitietsanpham {
+	color: #212529;
+}
+
+.content .left .quanlychitietsanpham .title1 {
+	background: #e9ecef;
+	color: #6c757d;
+	padding: 12px 16px;
+	margin: 16px 15px;
+	border-radius: 1rem;
+}
+
+.content .left .quanlychitietsanpham .title2 {
+	color: #007bff;
+}
+
+.content .left .quanlychitietsanpham .title3 {
+	color: #212529;
+	padding: 0 8px;
+}
+
+.content .left .quanlychitietsanpham input[type='text'] {
+	padding: 12px;
+	color: #212529;
+	outline: none;
+	border-radius: 5px;
+	border: 1px solid #ccc;
+	background: #ffffff;
+	width: 300px;
+	margin: 15px 0;
+}
+
+.content .left .quanlychitietsanpham input[type='file'] {
+	color: #212529;
+	outline: none;
+	border-radius: 5px;
+	border: 1px solid #ccc;
+	background: #ffffff;
+	width: auto;
+	margin: 15px 0;
+	padding: 12px;
+}
+
+.content .left .quanlychitietsanpham input[type='submit'] {
+	padding: 6px 12px;
+	color: #ffffff;
+	outline: none;
+	border-radius: 5px;
+	border: 1px solid #ccc;
+	margin: 12px 0 10px 0;
+	background: #007bff;
+	width: 100px;
+}
+
+.content .left .quanlychitietsanpham select {
+	color: #212529;
+	outline: none;
+	border-radius: 5px;
+	border: 1px solid #ccc;
+	background: #ffffff;
+	width: auto;
+	margin: 15px 0;
+	padding: 12px;
+}
+
+.content .left .quanlychitietsanpham textarea {
+	color: #212529;
+	outline: none;
+	border-radius: 5px;
+	border: 1px solid #ccc;
+	background: #ffffff;
+	margin: 15px 0;
+	padding: 12px;
+}
+
+.content .left .quanlychitietsanpham table tr td,
+.content .left .quanlychitietsanpham table tr th {
+	border: 1px solid #ccc;
+}
+
+/* ============================================== */
+.content .right .quanlychitietsanpham {
+	color: #212529;
+	margin-bottom: 50px;
+}
+
+.content .right .quanlychitietsanpham .title1 {
+	background: #e9ecef;
+	color: #6c757d;
+	padding: 12px 16px;
+	margin: 16px 15px;
+	border-radius: 1rem;
+}
+
+.content .right .quanlychitietsanpham .title2 {
+	color: #007bff;
+}
+
+.content .right .quanlychitietsanpham table tr th {
+	padding: 10px 0;
+	border: 1px solid #ccc;
+}
+
+.content .right .quanlychitietsanpham table tr td {
+	padding: 20px 0;
+	border: 1px solid #ccc;
+}
+
+.content .right .quanlychitietsanpham table a {
+	color: #007bff;
+	text-decoration: none;
+}
+
+.content .right .quanlychitietsanpham table a:hover {
+	text-decoration: underline;
+}

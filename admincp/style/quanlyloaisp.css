@@ -1,0 +1,83 @@
+.content .left .quanlyloaisp {
+	color: #212529;
+}
+
+.content .left .quanlyloaisp .title1 {
+	background: #e9ecef;
+	color: #6c757d;
+	padding: 12px 16px;
+	margin: 16px 15px;
+	border-radius: 1rem;
+}
+
+.content .left .quanlyloaisp .title2 {
+	color: #007bff;
+}
+
+.content .left .quanlyloaisp .title3 {
+	color: #212529;
+	padding: 0 8px;
+}
+
+.content .left .quanlyloaisp input[type='text'] {
+	padding: 12px;
+	color: #212529;
+	outline: none;border-radius: 5px;
+	border: 1px solid #ccc;
+	background: #ffffff;
+	width: 300px;
+	margin: 15px 0;
+}
+
+.content .left .quanlyloaisp input[type='submit'] {
+	padding: 6px 12px;
+	color: #ffffff;
+	outline: none;
+	border-radius: 5px;
+	border: 1px solid #ccc;
+	margin: 12px 0 10px 0;
+	background: #007bff;
+	width: 100px;
+}
+
+.content .left .quanlyloaisp table tr td,
+.content .left .quanlyloaisp table tr th {
+	border: 1px solid #ccc;
+}
+
+/* =======================header======================= */
+.content .right .quanlyloaisp {
+	color: #212529;
+	margin-bottom: 50px;
+}
+
+.content .right .quanlyloaisp .title1 {
+	background: #e9ecef;
+	color: #6c757d;
+	padding: 12px 16px;
+	margin: 16px 15px;
+	border-radius: 1rem;
+}
+
+.content .right .quanlyloaisp .title2 {
+	color: #007bff;
+}
+
+.content .right .quanlyloaisp table tr th {
+	padding: 10px 0;
+	border: 1px solid #ccc;
+}
+
+.content .right .quanlyloaisp table tr td {
+	padding: 20px 0;
+	border: 1px solid #ccc;
+}
+
+.content .right .quanlyloaisp table a {
+	color: #007bff;
+	text-decoration: none;
+}
+
+.content .right .quanlyloaisp table a:hover {
+	text-decoration: underline;
+}
