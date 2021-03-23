@@ -1,14 +1,13 @@
-### Xiaomi Sales Website Version 1
+### Xiaomi Sales Website Version 1 - [nvanha][website]
 
 ## Introduce
 
-- Site is built from `HTML, CSS, JavaScript, MySql, PHP**, not **Framework`
+- Site is built from `HTML, CSS, JavaScript, MySql, PHP`, not `Framework`
 - Not yet support `English`
 - Not yet `Responsive Web`
 
 ## Installation
----
-Set config in `admincp/modules/config.php`:
+Set config in `admincp/modules/config.php` :
 ```php
 $host = '';
 $user_name = '';
@@ -22,7 +21,6 @@ if (!$conn) {
 }
 ```
 ## Path
----
 Index:
 ```path
 localhost/xiaomi_sales_website_ver1/index.php
@@ -33,3 +31,15 @@ Admin Control Panel:
 localhost/xiaomi_sales_website_ver1/admincp/index.php
 ```
 *Note, account login page Admin is: admin-admin*
+
+## You can refer to version 2 [Xiaomi Sales Website Version 2][link_ver2]
+### Connect with me:
+
+[<img align="left" alt="nvanha.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="nvanha | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
+[<img align="left" alt="nvanha | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+[website]: https://nvanha.github.io/myweb
+[instagram]: https://www.instagram.com/_haa_nguyen
+[facebook]: https://www.facebook.com/nvh1120
+[link_ver2]: https://github.com/nvanha/xiaomi_sales_website_ver2
