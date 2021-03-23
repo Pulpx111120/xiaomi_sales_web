@@ -32,7 +32,7 @@ localhost/xiaomi_sales_website_ver1/admincp/index.php
 ```
 *Note, account login page Admin is: admin-admin*
 
-## You can refer to version 2 [Xiaomi Sales Website Version 2][link_ver2]
+## You can refer to [Version 2][link_ver2]
 ### Connect with me:
 
 [<img align="left" alt="nvanha.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
