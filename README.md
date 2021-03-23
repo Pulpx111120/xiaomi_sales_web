@@ -1,4 +1,4 @@
-### Xiaomi Sales Website Version 1 - [nvanha][website]
+### [Xiaomi Sales Website Version 1][link_ver1] - [nvanha][website]
 
 ## Introduce
 
@@ -42,4 +42,5 @@ localhost/xiaomi_sales_website_ver1/admincp/index.php
 [website]: https://nvanha.github.io/myweb
 [instagram]: https://www.instagram.com/_haa_nguyen
 [facebook]: https://www.facebook.com/nvh1120
+[link_ver1]: https://github.com/nvanha/xiaomi_sales_website_ver1
 [link_ver2]: https://github.com/nvanha/xiaomi_sales_website_ver2
