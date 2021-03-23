@@ -1,8 +1,12 @@
 <?php
-	$tenmaychu = 'localhost';
-	$tentaikhoan = 'root';
-	$pass = '';
-	$csdl = 'quanlybanhang';
+	$host = '';
+	$user_name = '';
+	$password = '';
+	$db_name = '';
 	
-	$conn = mysqli_connect($tenmaychu, $tentaikhoan, $pass, $csdl) or die("Không kết nối được");
+	$conn = mysqli_connect($host, $user_name, $password, $db_name);
+
+	if (!$conn) {
+		echo "Connection failed: ".mysqli_connect_error();
+	}
 ?>

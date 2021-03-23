@@ -1,25 +1,35 @@
-# xiaomi_sales_web
-***
-**Xiaomi Sales Web**
+### Xiaomi Sales Website Version 1
 
-*-English*  
-Login to the home sales page: [Index](http://nvanhaf.byethost12.com)  
-Login to the admin page: [Admin](http://nvanhaf.byethost12.com/admincp/login.php)  
-Account management admin page:  
--> **admin1 - ad1**  
--> **admin2 - ad2**  
--> **admin3 - ad3**  
--> **admin4 - ad4**  
-Site is built from **HTML, CSS, JavaScript, MySql, PHP**, not **Framework**.  
-Not yet support English.
+## Introduce
 
-*-Vietnamese*  
-Đăng nhập trang chủ bán hàng: [Index](http://nvanhaf.byethost12.com)  
-Đăng nhập trang admin quản lý: [Admin](http://nvanhaf.byethost12.com/admincp/login.php)  
-Tài khoản đăng nhập trang admin quản lý:  
--> **admin1 - ad1**  
--> **admin2 - ad2**  
--> **admin3 - ad3**  
--> **admin4 - ad4**  
-Trang web được xây dựng từ **HTML, CSS, JavaScript, MySql, PHP** thuần, không **Framework**.
-***
+- Site is built from `HTML, CSS, JavaScript, MySql, PHP**, not **Framework`
+- Not yet support `English`
+- Not yet `Responsive Web`
+
+## Installation
+---
+Set config in `admincp/modules/config.php`:
+```php
+$host = '';
+$user_name = '';
+$password = '';
+$database = '';
+
+$conn = mysqli_connect($host, $user_name, $password, $database);
+
+if (!$conn) {
+    echo "Connection failed: ".mysqli_connect_error();
+}
+```
+## Path
+---
+Index:
+```path
+localhost/xiaomi_sales_website_ver1/index.php
+```
+
+Admin Control Panel:
+```path
+localhost/xiaomi_sales_website_ver1/admincp/index.php
+```
+*Note, account login page Admin is: admin-admin*
