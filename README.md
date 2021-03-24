@@ -1,4 +1,4 @@
-### [Xiaomi Sales Website Version 1][link_ver1] - [nvanha][website]
+### [Xiaomi Sales Website Version 1][link_ver1] - [nvanha][website] 👋
 
 ## Introduce
 
